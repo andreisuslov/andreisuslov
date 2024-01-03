@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @andreisuslov
-- 👀 I’m interested in developing in Java and Javascript (JS+TS)
+- 👀 I test and solve problems in Python, Java and Javascript (JS+TS).
