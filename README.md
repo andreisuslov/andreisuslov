@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @andreisuslov
-- 👀 I test and solve problems in Python, Java and Javascript (JS+TS).
+- 👀 I solve problems in Python, Java, and JS.
